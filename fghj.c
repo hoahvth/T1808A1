@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+
 
 
 void concat(char s1[50], char s2[50]) {
