@@ -3,19 +3,7 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-typedef struct motorbike_st	{
-	char name[20], manufacturer[10], madein[12];
-	long int price;
-} motorbike;
 
-int total=0;
-motorbike *p;
-
-void showMenu();
-void input();
-void read();
-void find();
-void exportfile();
 
 int main(int argc, char *argv[]) {
 	int choose;
