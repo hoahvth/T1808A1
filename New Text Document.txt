@@ -1,0 +1,15 @@
+*gets(name); 
+nh?p chu?i name
+*c= getchar()
+putchar(c)
+nh?p và in d? li?u
+printf("\nC= ");
+putchar(c)
+*ho?c ||
+*và &&
+*not !
+*switch(c)
+dùng cho s? nguyên vs kí t?
+case(L):
+printf
+break;
